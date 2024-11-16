@@ -14,9 +14,7 @@ I'm an aspiring Artificial Intelligence and Machine Learning (AI/ML) specialist 
 
 ## 🚀 Projects
 ### 🔧 AI/ML & Data Science  
-- **AI Voice Support System:** Building a real-time customer support assistant integrating speech-to-text, LLMs, and text-to-speech, all in Docker containers.  
-- **Emotion Detection in Video Calls:** Researching AI models for real-time emotion analysis.  
-- **Astrophotography Automation:** Conceptualizing a self-operating astrophotography device to capture stunning night skies.  
+- **AI Voice Support System:** Building a real-time customer support assistant integrating speech-to-text, LLMs, and text-to-speech, all in Docker containers.
 
 ### 🔥 Hardware & Robotics  
 - **Homelab Adventures:** Hosting personal projects on a server and Raspberry Pi 5, exploring automation and smart systems.  
