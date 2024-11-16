@@ -32,7 +32,7 @@ I'm an aspiring Artificial Intelligence and Machine Learning (AI/ML) specialist 
 ---
 
 ## 📫 Let's Connect!  
-- **Email:** [abhayprabhakar07@gmail.com]  
+- **Email:** abhayprabhakar07@gmail.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhay-prabhakar/)
 - **Portfolio:** [Abhay.](https://abhayprabhakar.co.in)
 
