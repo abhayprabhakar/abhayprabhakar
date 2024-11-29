@@ -8,7 +8,7 @@ I'm an aspiring Artificial Intelligence and Machine Learning (AI/ML) specialist 
 - **AI/ML:** Supervised Learning, Neural Networks, Image-to-Text Models, Conversational AI, Real-Time Transcription  
 - **Web Development:** HTML, CSS, Dockerized Flask Apps  
 - **Systems & Platforms:** Arch Linux, Docker, Nginx  
-- **Electronics:** PCB Design, ESP32, Raspberry Pi  
+- **Electronics:** ESP32, Raspberry Pi  
 
 ---
 
